@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0018-4sum) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
