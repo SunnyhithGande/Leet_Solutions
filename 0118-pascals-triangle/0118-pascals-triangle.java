@@ -9,17 +9,17 @@ class Solution
         }
         return list;
     }
-        private List<Integer> generateRow(int row)
+    private List<Integer> generateRow(int row)
+    {
+        List<Integer> cr = new ArrayList<>();
+        long ans = 1;
+        cr.add(1);
+        for(int col = 1;col<=row;col++)
         {
-            List<Integer> cr = new ArrayList<>();
-            long ans = 1;
-            cr.add(1);
-            for(int col = 1;col<=row;col++)
-            {
-                ans = ans * (row-col+1);
-                ans = ans/(col);
-                cr.add((int)ans);
-            }
-            return cr;
+            ans = ans * (row-col+1);
+            ans = ans/(col);
+            cr.add((int)ans);
         }
+        return cr;
+    }
 }
