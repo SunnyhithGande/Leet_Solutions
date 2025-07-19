@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0029-divide-two-integers) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0029-divide-two-integers) |
 | [0292-nim-game](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0292-nim-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
