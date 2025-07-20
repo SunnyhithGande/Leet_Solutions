@@ -1,16 +1,16 @@
-class Solution {
+class Solution 
+{
     public int sumOddLengthSubarrays(int[] arr) 
     {
         int n = arr.length;
-        int cnt = 0;
         int sum = 0;
         for(int i=0;i<n;i++)
         {
-            cnt = 0;
+            int cnt = 0;
             for(int j=i;j<n;j++)
             {
                 cnt++;
-                if(cnt%2!=0)
+                if(cnt%2 != 0)
                 {
                     int k = i;
                     while(k<=j)
