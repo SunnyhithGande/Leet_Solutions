@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
 | [0948-sort-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1603-running-sum-of-1d-array) |
