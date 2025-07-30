@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0169-majority-element) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0697-degree-of-an-array) |
+| [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
