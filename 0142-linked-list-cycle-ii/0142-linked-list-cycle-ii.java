@@ -9,24 +9,22 @@
  *     }
  * }
  */
-public class Solution 
-{
-    public ListNode detectCycle(ListNode head) 
-    {
-        Set<ListNode> hs = new HashSet<>();
+public class Solution {
+    public ListNode detectCycle(ListNode head) {
+        HashMap<ListNode,Integer> map = new HashMap<>();
         ListNode temp = head;
         while(temp!=null)
         {
-            if(hs.contains(temp))
+            if(map.containsKey(temp))
             {
                 return temp;
             }
             else
             {
-                hs.add(temp);
+                map.put(temp,1);
+                temp = temp.next;
             }
-            temp = temp.next;
         }
-        return temp;
+        return null;
     }
 }
