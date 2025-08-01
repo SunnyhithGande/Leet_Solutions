@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0029-divide-two-integers) |
 | [0292-nim-game](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0292-nim-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Brainteaser
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
