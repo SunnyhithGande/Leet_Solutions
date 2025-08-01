@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
