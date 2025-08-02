@@ -12,8 +12,8 @@ class Solution {
     public ListNode oddEvenList(ListNode head) {
         if(head == null || head.next == null) return head;
         ListNode oddcurr = head;
+        ListNode evencurr = head.next;
         ListNode evenhead = head.next;
-        ListNode evencurr = evenhead;
         while(oddcurr!=null && oddcurr.next!=null && oddcurr.next.next != null)
         {
             oddcurr.next = oddcurr.next.next;
