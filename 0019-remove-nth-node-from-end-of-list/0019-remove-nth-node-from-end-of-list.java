@@ -18,10 +18,12 @@ class Solution {
             curr = curr.next;
         }
         if(cnt == n) return head.next;
-        int k = cnt-n;
+        int res = cnt-n;
         curr = head;
-        for(int i=1;i<k;i++)
+        while(curr != null)
         {
+            res--;
+            if(res == 0) break;
             curr = curr.next;
         }
         curr.next = curr.next.next;
