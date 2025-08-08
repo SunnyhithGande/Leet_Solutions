@@ -22,18 +22,19 @@ class Solution
         }
         while(curr != null)
         {
-            if(hs.contains(curr.val))
+            while (curr != null) 
             {
-                curr = curr.next;
-            }
-            else
-            {
-                prev.next = curr;
-                prev = curr;
+                if (hs.contains(curr.val)) 
+                {
+                    prev.next = curr.next;
+                } 
+                else 
+                {
+                    prev = curr;
+                }
                 curr = curr.next;
             }
         }
-        prev.next = null;
         return dummy.next;
     }
 }
