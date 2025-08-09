@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2083-three-divisors](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2083-three-divisors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3371-harshad-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3371-harshad-number) |
@@ -234,9 +235,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2083-three-divisors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2083-three-divisors) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
