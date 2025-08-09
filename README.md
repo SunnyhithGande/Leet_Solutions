@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
+| [3859-maximum-product-of-two-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3859-maximum-product-of-two-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Brainteaser
 |  |
 | ------- |
