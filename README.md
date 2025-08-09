@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3371-harshad-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
