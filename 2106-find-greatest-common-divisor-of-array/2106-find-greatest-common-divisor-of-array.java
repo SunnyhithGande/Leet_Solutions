@@ -2,17 +2,21 @@ class Solution
 {
     public int findGCD(int[] nums) 
     {
-        int max = 0;
-        Arrays.sort(nums);
-        int l = nums[0];
-        int r = nums[nums.length - 1];
-        for(int i=1;i<=r;i++)
+        int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
+        int supermax = 0;
+        for(int i=0;i<nums.length;i++)
         {
-            if(l%i == 0 && r%i==0)
+            max = Math.max(max,nums[i]);
+            min = Math.min(min,nums[i]);
+        }
+        for(int i=1;i<=max;i++)
+        {
+            if(max%i == 0 && min%i==0)
             {
-                max = Math.max(max,i);
+                supermax = Math.max(supermax,i);
             }
         }
-        return max;
+        return supermax;
     }
 }
