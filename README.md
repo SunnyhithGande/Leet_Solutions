@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0292-nim-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
 | [3790-fruits-into-baskets-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
