@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3371-harshad-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
