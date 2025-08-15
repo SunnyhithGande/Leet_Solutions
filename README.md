@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0342-power-of-four) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
 ## Two Pointers
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0342-power-of-four) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
