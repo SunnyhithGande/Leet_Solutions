@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
+| [0742-to-lower-case](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0742-to-lower-case) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
