@@ -2,17 +2,16 @@ class Solution
 {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) 
     {
-        String res1 = "";
-        String res2 = "";
-        for(int i=0;i<word1.length;i++)
+        StringBuilder b1 = new StringBuilder();
+        StringBuilder b2 = new StringBuilder();
+        for(String w : word1)
         {
-            res1 = res1+word1[i];
+            b1.append(w);
         }
-        for(int i=0;i<word2.length;i++)
+        for(String w : word2)
         {
-            res2 = res2+word2[i];
+            b2.append(w);
         }
-        if(res1.equals(res2)) return true;
-        else return false;
+        return b1.toString().equals(b2.toString());
     }
 }
