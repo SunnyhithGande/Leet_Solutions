@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
+| [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -87,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0169-majority-element) |
+| [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
+| [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0342-power-of-four) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
+| [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
