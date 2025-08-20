@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0520-detect-capital) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2507-number-of-common-factors) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
