@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0344-reverse-string) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0328-odd-even-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
