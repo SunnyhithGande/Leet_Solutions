@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Math
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Quickselect
 |  |
 | ------- |
