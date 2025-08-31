@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0202-happy-number) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0697-degree-of-an-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0342-power-of-four) |
