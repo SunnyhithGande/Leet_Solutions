@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0069-sqrtx) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
 | [3790-fruits-into-baskets-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
