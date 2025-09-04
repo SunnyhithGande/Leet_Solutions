@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3830-find-closest-person](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Brainteaser
