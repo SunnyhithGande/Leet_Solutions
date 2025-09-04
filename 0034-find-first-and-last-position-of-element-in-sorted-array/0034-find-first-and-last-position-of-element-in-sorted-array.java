@@ -2,24 +2,37 @@ class Solution
 {
     public int[] searchRange(int[] nums, int target) 
     {
-        int n = nums.length;
-        int l=0;
-        int r=n-1;
-        int dummy[] = new int[]{-1,-1};
-        while(l<=r)
+        int arr[] = new int[2];
+        int low = 0;
+        int high = nums.length - 1;
+        int ans = -1;
+        while(low <= high)
         {
-            if(nums[l] == target && dummy[0]==-1)
+            int mid = (low+high)/2;
+            if(nums[mid] == target)
             {
-                dummy[0] = l;
+                ans = mid;
+                high = mid - 1;
             }
-            if(nums[r] == target && dummy[1] == -1)
-            {
-                dummy[1] = r;
-            }
-            if(dummy[0] != -1 && dummy[1]!=-1) break;
-            if(nums[l] != target) l++;
-            if(nums[r] != target) r--;
+            else if(nums[mid] < target) low = mid+1;
+            else high = mid-1;
         }
-        return dummy;
+        arr[0] = ans;
+        low = 0;
+        high = nums.length - 1;
+        ans = -1;
+        while(low <= high)
+        {
+            int mid = (low+high)/2;
+            if(nums[mid] == target)
+            {
+                ans = mid;
+                low = mid+1;
+            }
+            else if(nums[mid] < target) low = mid+1;
+            else high = mid-1;
+        }
+        arr[1] = ans;
+        return arr;
     }
 }
