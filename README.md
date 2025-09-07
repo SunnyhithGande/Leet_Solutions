@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
