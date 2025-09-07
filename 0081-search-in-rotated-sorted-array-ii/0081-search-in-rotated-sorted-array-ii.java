@@ -1,12 +1,42 @@
-class Solution {
+class Solution 
+{
     public boolean search(int[] nums, int target) 
     {
-        // this is O(N)
-        //next i will do with O(logn) binary search...
-        for(int i=0;i<nums.length;i++)
+        int low = 0;
+        int high = nums.length - 1;
+        while(low <= high)
         {
-            if(nums[i] == target) return true;
-        }   
+            int mid = (low+high)/2;
+            if(nums[mid] == target) return true;
+            if(nums[low] == nums[mid] && nums[mid] == nums[high])
+            {
+                low++;
+                high--;
+                continue;
+            }
+            if(nums[low] <= nums[mid])
+            {
+                if(nums[low] <= target && target <= nums[mid])
+                {
+                    high = mid - 1;
+                }
+                else
+                {
+                    low= mid+1;
+                }
+            }
+            else
+            {
+                if(nums[mid] <= target && target <= nums[high])
+                {
+                    low = mid+1;
+                }
+                else
+                {
+                    high = mid - 1;
+                }
+            }
+        }
         return false;
     }
 }
