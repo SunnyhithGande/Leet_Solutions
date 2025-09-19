@@ -369,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
