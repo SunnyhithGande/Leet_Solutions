@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0342-power-of-four) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
