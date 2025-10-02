@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2083-three-divisors](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1642-water-bottles) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
