@@ -2,14 +2,14 @@ class Solution
 {
     public boolean checkPrimeFrequency(int[] nums) 
     {
-        Map<Integer,Integer> map = new HashMap<>();
+        int freq[] = new int[101];
         for(int i=0;i<nums.length;i++)
         {
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+            freq[nums[i]]++;
         }
-        for(Map.Entry<Integer,Integer> entry : map.entrySet())
+        for(int i=0;i<freq.length;i++)
         {
-            if(isPrime(entry.getValue()) == true) return true;
+            if(isPrime(freq[i]) == true) return true;
         }
         return false;
     }
