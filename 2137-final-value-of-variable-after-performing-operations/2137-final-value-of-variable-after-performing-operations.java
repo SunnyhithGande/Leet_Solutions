@@ -2,18 +2,18 @@ class Solution
 {
     public int finalValueAfterOperations(String[] operations) 
     {
-        int sum = 0;
-        for(int i=0;i<operations.length;i++)
+        int x = 0;
+        for(String v : operations)
         {
-            if(operations[i].equals("X++") || operations[i].equals("++X"))
+            if(v.contains("+"))
             {
-                sum = sum + 1;
+                x++;
             }
-            else if(operations[i].equals("X--") || operations[i].equals("--X"))
+            else
             {
-                sum = sum-1;
+                x--;
             }
         }
-        return sum;
+        return x;
     }
 }
