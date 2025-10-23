@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2486-most-frequent-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
