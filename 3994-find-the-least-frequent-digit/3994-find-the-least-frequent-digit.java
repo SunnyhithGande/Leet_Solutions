@@ -4,20 +4,14 @@ class Solution
     {
         Map<Integer,Integer> map = new HashMap<>();
         int x = n;
-        int cnt = 0;
-        while(x>0)
+        while (x > 0)
         {
-            cnt++;
-            x=x/10;
-        }
-        for(int i=0;i<cnt;i++)
-        {
-            int k = n%10;
-            map.put(k,map.getOrDefault(k,0)+1);
-            n=n/10;
+            int k = x % 10;
+            map.put(k, map.getOrDefault(k, 0) + 1);
+            x = x / 10;
         }
         int min = Integer.MAX_VALUE;
-        int ans = 0;
+        int ans = -1;
         for(Map.Entry<Integer,Integer> entry : map.entrySet())
         {
             if(entry.getValue() < min)
