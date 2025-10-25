@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
 ## String
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3859-maximum-product-of-two-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
 ## Brainteaser
 |  |
 | ------- |
