@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0202-happy-number) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0697-degree-of-an-array) |
+| [0816-design-hashset](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0816-design-hashset) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0816-design-hashset](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0816-design-hashset](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0816-design-hashset) |
 ## Iterator
 |  |
 | ------- |
@@ -424,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0577-employee-bonus) |
 | [2110-employees-with-missing-information](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2110-employees-with-missing-information) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
