@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2365-percentage-of-letter-in-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
