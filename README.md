@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Database
 |  |
