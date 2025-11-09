@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0816-design-hashset) |
+| [0837-most-common-word](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0837-most-common-word) |
 | [0943-sum-of-subarray-minimums](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0697-degree-of-an-array) |
 | [0816-design-hashset](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0816-design-hashset) |
+| [0837-most-common-word](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0837-most-common-word) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0169-majority-element) |
+| [0837-most-common-word](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0742-to-lower-case) |
+| [0837-most-common-word](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0837-most-common-word) |
 | [1205-defanging-an-ip-address](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
