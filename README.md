@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
