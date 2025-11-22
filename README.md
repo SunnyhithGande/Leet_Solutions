@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3371-harshad-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
