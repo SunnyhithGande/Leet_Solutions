@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0697-degree-of-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0816-design-hashset) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0792-binary-search) |
 | [3790-fruits-into-baskets-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
