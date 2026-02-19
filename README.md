@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2659-number-of-even-and-odd-bits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2659-number-of-even-and-odd-bits) |
