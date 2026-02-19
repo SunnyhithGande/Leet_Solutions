@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3745-maximize-expression-of-three-elements](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
+| [3745-maximize-expression-of-three-elements](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1448-maximum-69-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3745-maximize-expression-of-three-elements](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2507-number-of-common-factors) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
 | ------- |
