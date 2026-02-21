@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2418-sort-the-people](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2365-percentage-of-letter-in-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2365-percentage-of-letter-in-string) |
+| [2418-sort-the-people](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
