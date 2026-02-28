@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3379-transformed-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3379-transformed-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
 ## String
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3379-transformed-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3379-transformed-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
