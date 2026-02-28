@@ -4,12 +4,12 @@ class Solution
     {
         Arrays.sort(nums);
         int sum = 0;
-        for(int i=nums.length-1;i>=0;)
+        int ans = nums[nums.length-1];
+        while(k!=0)
         {
-            sum = sum+nums[i];
-            nums[i] = nums[i] + 1;
+            sum = sum + ans;
             k--;
-            if(k==0) break;
+            ans = ans+1;
         }
         return sum;
     }
