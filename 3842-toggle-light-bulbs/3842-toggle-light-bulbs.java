@@ -2,19 +2,19 @@ class Solution
 {
     public List<Integer> toggleLightBulbs(List<Integer> bulbs) 
     {
-        List<Integer> list = new ArrayList<>();
-        for(int i=0;i<bulbs.size();i++)
+        int freq[] = new int[101];
+        for(int bulb : bulbs)
         {
-            if(!list.contains(bulbs.get(i)))
+            freq[bulb]++;
+        }
+        List<Integer> list = new ArrayList<>();
+        for(int i=0;i<freq.length;i++)
+        {
+            if(freq[i] % 2 != 0)
             {
-                list.add(bulbs.get(i));
-            }
-            else
-            {
-                list.remove(bulbs.get(i));
+                list.add(i);
             }
         }
-        Collections.sort(list);
         return list;
     }
 }
