@@ -2,14 +2,16 @@ class Solution
 {
     public int maximizeSum(int[] nums, int k) 
     {
-        Arrays.sort(nums);
+        int max = 0;
         int sum = 0;
-        int ans = nums[nums.length-1];
-        while(k!=0)
+        for(int n : nums)
         {
-            sum = sum + ans;
-            k--;
-            ans = ans+1;
+            max = Math.max(n,max);
+        }
+        while(k-- != 0)
+        {
+            sum = sum + max;
+            max++;
         }
         return sum;
     }
