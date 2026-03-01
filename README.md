@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3859-maximum-product-of-two-digits) |
