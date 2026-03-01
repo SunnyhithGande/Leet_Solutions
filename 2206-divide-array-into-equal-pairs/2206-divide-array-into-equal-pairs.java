@@ -2,14 +2,14 @@ class Solution
 {
     public boolean divideArray(int[] nums) 
     {
-        Map<Integer,Integer> map = new HashMap<>();
+        int freq[] = new int[501];
         for(int x : nums)
         {
-            map.put(x,map.getOrDefault(x,0)+1);
+            freq[x]++;
         }
-        for(Map.Entry<Integer,Integer> entry : map.entrySet())
+        for(int i=0;i<freq.length;i++)
         {
-            if(entry.getValue() % 2 != 0) return false;
+            if(freq[i] % 2!=0) return false;
         }
         return true;
     }
