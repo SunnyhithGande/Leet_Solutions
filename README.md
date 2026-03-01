@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2486-most-frequent-even-element) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2159-two-out-of-three](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2159-two-out-of-three) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2659-number-of-even-and-odd-bits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2659-number-of-even-and-odd-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
