@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2365-percentage-of-letter-in-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2365-percentage-of-letter-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2678-number-of-senior-citizens](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2678-number-of-senior-citizens) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2390-removing-stars-from-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3379-transformed-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3379-transformed-array) |
