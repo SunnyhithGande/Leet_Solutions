@@ -2,19 +2,18 @@ class Solution
 {
     public boolean judgeCircle(String moves) 
     {
-        int cnt1 = 0;
-        int cnt2 = 0;
-        int cnt3 = 0;
-        int cnt4 = 0;
-        for(int i=0;i<moves.length();i++)
+        int x = 0, y = 0;
+        for (char c : moves.toCharArray()) 
         {
-            char ch = moves.charAt(i);
-            if(ch == 'R') cnt1++;
-            else if(ch == 'L') cnt2++;
-            else if(ch == 'U') cnt3++;
-            else cnt4++;
+            if (c == 'U')
+                y++;
+            else if (c == 'D')
+                y--;
+            else if (c == 'L')
+                x--;
+            else if (c == 'R')
+                x++;
         }
-        if(cnt1 != cnt2 || cnt3 != cnt4) return false;
-        return true;
+        return x == 0 && y == 0;
     }
 }
