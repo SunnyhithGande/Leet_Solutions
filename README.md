@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0837-most-common-word) |
