@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0383-ransom-note) |
+| [0434-number-of-segments-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
