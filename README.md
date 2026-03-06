@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2128-reverse-prefix-of-word](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
