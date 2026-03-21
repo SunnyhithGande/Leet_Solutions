@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0143-reorder-list) |
