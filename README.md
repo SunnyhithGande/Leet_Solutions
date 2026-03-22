@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3842-toggle-light-bulbs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3861-minimum-capacity-box](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3861-minimum-capacity-box) |
+| [3866-first-unique-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3866-first-unique-even-element) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3842-toggle-light-bulbs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3842-toggle-light-bulbs) |
+| [3866-first-unique-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3866-first-unique-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
 ## String
