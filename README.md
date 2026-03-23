@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3856-trim-trailing-vowels](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3856-trim-trailing-vowels) |
 ## Bit Manipulation
 |  |
 | ------- |
