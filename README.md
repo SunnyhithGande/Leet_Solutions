@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3174-clear-digits) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3856-trim-trailing-vowels) |
 ## Bit Manipulation
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3842-toggle-light-bulbs) |
 | [4058-compute-alternating-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/4058-compute-alternating-sum) |
 ## Ordered Set
