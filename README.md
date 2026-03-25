@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2678-number-of-senior-citizens](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2810-faulty-keyboard](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2810-faulty-keyboard) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3174-clear-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3174-clear-digits) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2810-faulty-keyboard](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2810-faulty-keyboard) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3174-clear-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3379-transformed-array) |
