@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0742-to-lower-case) |
+| [0796-rotate-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0796-rotate-string) |
 | [0837-most-common-word](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0837-most-common-word) |
 | [1205-defanging-an-ip-address](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1678-goal-parser-interpretation) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/0796-rotate-string) |
 ## Tree
 |  |
 | ------- |
