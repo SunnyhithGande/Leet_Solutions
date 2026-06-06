@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
+| [2574-left-and-right-sum-differences](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2678-number-of-senior-citizens) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
