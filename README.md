@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3866-first-unique-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3866-first-unique-even-element) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
 | [4058-compute-alternating-sum](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/4058-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
