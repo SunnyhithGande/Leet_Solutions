@@ -1,0 +1,17 @@
+class Solution {
+    public int[] concatWithReverse(int[] nums) {
+
+        int arr[] = new int[2*nums.length];
+        int n = arr.length/2;
+        int idx = nums.length-1;
+        for(int i=0;i<n;i++)
+        {
+            arr[i] = nums[i];
+        }
+        for(int i=n;i<arr.length;i++)
+        {
+            arr[i] = nums[idx--];
+        }
+        return arr;
+    }
+}
