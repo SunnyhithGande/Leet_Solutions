@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3945-digit-frequency-score](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3945-digit-frequency-score) |
 | [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3859-maximum-product-of-two-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3945-digit-frequency-score](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3945-digit-frequency-score) |
 | [3994-find-the-least-frequent-digit](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3994-find-the-least-frequent-digit) |
 ## Brainteaser
 |  |
