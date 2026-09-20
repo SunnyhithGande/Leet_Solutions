@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3174-clear-digits) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3856-trim-trailing-vowels) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SunnyhithGande/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
